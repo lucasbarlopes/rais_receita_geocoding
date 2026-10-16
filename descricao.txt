@@ -1,0 +1,28 @@
+
+
+O objetivo deste projeto é buscar os endereços das empresas presentes na receita e na rais pelo brasil todo.
+
+inicialmente vamos usar metodos mais rapidos e baratos, como o geocodingbr.
+
+já mapeamos a rais e a receita para parquet, nós podemos facilmente fazer queries e buscar os endereços.
+
+após buscar os endereços pelo geocodingbr, vamos selecionar os que nao ficaram bons e buscar por outros meios.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+to do:
+
+coloca o path da raiz/receita em parquet no servidor: 
+colocar path do projeto que estou me baseando: "d:\Users\lucas.lopes\Documents\projetos\nereus_geocoding"
+
